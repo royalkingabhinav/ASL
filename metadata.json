@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ScholarSync",
+  "description": "Subject notes, interactive quizzes, formula books, and numerical solutions for Science, Maths, and SST with cloud sync and streaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
